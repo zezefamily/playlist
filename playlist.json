@@ -1,0 +1,14 @@
+{
+  data:[
+	{
+		tvg_logo:"",
+		group_title:"香港无线新闻台",
+		live:"https://mp.weixinbridge.com/mp/wapredirect?url=http%3A%2F%2Fhlslive.qyvideo.net%2Flive%2F5112adbfe8824b049a28ba0aaeca9484%2Findex.m3u8"
+	},
+	{
+		tvg_logo:"",
+		group_title:"美亚电影台",
+		live:"https://mp.weixinbridge.com/mp/wapredirect?url=http%3A%2F%2Fr05.wscdn.hls.xiaoka.tv%2Flive%2Ffc29e75501804925a19cf375cb2d1671%2Fplaylist.m3u8"
+	},
+	]
+}
