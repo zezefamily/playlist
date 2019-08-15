@@ -1,15 +1,6 @@
 {
   "data":[
-	{
-		"tvg_logo":"",
-		"group_title":"香港无线新闻台",
-		"live":"https://mp.weixinbridge.com/mp/wapredirect?url=http%3A%2F%2Fhlslive.qyvideo.net%2Flive%2F5112adbfe8824b049a28ba0aaeca9484%2Findex.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"美亚电影台",
-		"live":"https://mp.weixinbridge.com/mp/wapredirect?url=http%3A%2F%2Fr05.wscdn.hls.xiaoka.tv%2Flive%2Ffc29e75501804925a19cf375cb2d1671%2Fplaylist.m3u8"
-	},
+	
 	{
 		"tvg_logo":"",
 		"group_title":"CHC家庭影院",
@@ -26,9 +17,64 @@
 		"live":"rtmp://58.200.131.2/livetv/chcatv"
 	},
 	{
-		"tvg_logo":"星空卫视",
-		"group_title":"美亚电影台",
+		"tvg_logo":"",
+		"group_title":"星空卫视",
 		"live":"rtmp://58.200.131.2:1935/livetv/startv"
+	},
+	{
+		"tvg_logo":"",
+		"group_title":"香港TVB无线新闻台",
+		"live":"http://hlslive.qyvideo.net/live/5112adbfe8824b049a28ba0aaeca9484/index.m3u8"
+	},
+	{
+		"tvg_logo":"",
+		"group_title":"香港TVB-J2频道",
+		"live":"https://hlslive.qyvideo.net/live/5efaabaa7e884f0baefb45424807f925/index.m3u8"
+	},
+	{
+		"tvg_logo":"",
+		"group_title":"香港开电视频道",
+		"live":"http://media.fantv.hk/m3u8/archive/channel2.m3u8"
+	},
+	{
+		"tvg_logo":"",
+		"group_title":"香港TVB翡翠台",
+		"live":"http://219.232.160.161:5080/hls/bycgekwh.m3u8"
+	},
+	{
+		"tvg_logo":"",
+		"group_title":"香港TVB明珠台",
+		"live":"http://219.232.160.161:5080/hls/b2xajcu7.m3u8"
+	},
+	{
+		"tvg_logo":"",
+		"group_title":"凤凰卫视电影台",
+		"live":"http://219.232.160.161:5080/hls/fdwypqk6.m3u8"
+	},
+	{
+		"tvg_logo":"",
+		"group_title":"凤凰卫视中文台",
+		"live":"http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8"
+	},
+	{
+		"tvg_logo":"",
+		"group_title":"凤凰卫视资询台",
+		"live":"http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8"
+	},
+	{
+		"tvg_logo":"",
+		"group_title":"凤凰卫视香港台",
+		"live":"http://223.82.250.72/live/fhhongkong/1.m3u8"
+	},
+	{
+		"tvg_logo":"",
+		"group_title":"香港有线电影一台",
+		"live":"http://al3-flv.live.huajiao.com/live_huajiao_v2/6licM7M5QOml22.m3u8"
+	},
+	{
+		"tvg_logo":"",
+		"group_title":"澳亚卫视",
+		"live":"http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8"
 	},
 ]
 }
