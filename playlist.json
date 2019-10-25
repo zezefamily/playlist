@@ -1,165 +1,587 @@
 {
   "data":[
-	
-	{
-		"tvg_logo":"",
-		"group_title":"CHC家庭影院",
-		"live":"rtmp://58.200.131.2/livetv/chctv"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"CHC高清电影",
-		"live":"rtmp://58.200.131.2:1935/livetv/chchd"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"CHC动作电影",
-		"live":"rtmp://58.200.131.2/livetv/chcatv"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"星空卫视",
-		"live":"rtmp://58.200.131.2:1935/livetv/startv"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"香港TVB无线新闻台",
-		"live":"http://hlslive.qyvideo.net/live/5112adbfe8824b049a28ba0aaeca9484/index.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"香港TVB-J2频道",
-		"live":"https://hlslive.qyvideo.net/live/5efaabaa7e884f0baefb45424807f925/index.m3u8"
-	},
-	  {
-		  "tvg_logo":"",
-		  "group_title":"香港TVB星河频道",
-		  "live":"http://hlslive.qyvideo.net/live/cd3e37f44be14d1c83887f572429ba00/index.m3u8"
-	  },
-	{
-		"tvg_logo":"",
-		"group_title":"香港开电视频道",
-		"live":"http://media.fantv.hk/m3u8/archive/channel2.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"香港TVB翡翠台",
-		"live":"http://219.232.160.161:5080/hls/bycgekwh.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"香港TVB明珠台",
-		"live":"http://219.232.160.161:5080/hls/b2xajcu7.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"凤凰卫视电影台",
-		"live":"http://219.232.160.161:5080/hls/fdwypqk6.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"凤凰卫视中文台",
-		"live":"http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"凤凰卫视资询台",
-		"live":"http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"凤凰卫视香港台",
-		"live":"http://223.82.250.72/live/fhhongkong/1.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"香港有线电影一台",
-		"live":"http://al3-flv.live.huajiao.com/live_huajiao_v2/6licM7M5QOml22.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"澳亚卫视",
-		"live":"http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"CCTV-1HD",
-		"live":"http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226316/index.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"CCTV-2HD",
-		"live":"http://ivi.bupt.edu.cn/hls/cctv2.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"CCTV-3HD",
-		"live":"http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-3/1.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"CCTV-4HD",
-		"live":"http://111.40.205.87/PLTV/88888888/224/3221225725/index.m3u8"
-	},
-		{
-		"tvg_logo":"",
-		"group_title":"CCTV-5HD",
-		"live":"http://223.110.242.130:6610/cntv/live1/cctv-5/1.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"CCTV-6HD",
-		"live":"http://223.110.242.130:6610/cntv/live1/cctv-6/1.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"CCTV-7HD",
-		"live":"http://111.40.205.87/PLTV/88888888/224/3221225733/index.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"CCTV-8HD",
-		"live":"http://183.207.248.71/cntv/live1/8/cctv-8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"CCTV-9HD",
-		"live":"http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225868/index.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"CCTV-10HD",
-		"live":"http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225550/index.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"CCTV-11HD",
-		"live":"http://111.40.205.87/PLTV/88888888/224/3221225724/index.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"CCTV-12HD",
-		"live":"http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"CCTV-13HD",
-		"live":"http://ivi.bupt.edu.cn/hls/cctv13.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"CCTV-14HD",
-		"live":"http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221225813/index.m3u8"
-	},
-	{
-		"tvg_logo":"",
-		"group_title":"CCTV-15HD",
-		"live":"http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221225568/index.m3u8"
-	},
-	{
-		  "tvg_logo":"",
-		  "group_title":"全纪实频道",
-		  "live":"rtmp://ivi.bupt.edu.cn:1935/livetv/documentaryhd"
-	}
+      {
+          "group_title": "寰宇新闻",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.flv"
+      }, {
+          "group_title": "MTV Live",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/116911efa30e70c9cf64ea9a0e990a05.flv"
+      }, {
+          "group_title": "Channel V",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e.flv"
+      }, {
+          "group_title": "Discovery科学[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/f82bcb85f1a67e5b4754f7be0661dc72.flv"
+      }, {
+          "group_title": "Discovery Asia",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/f325e0ce8ddf55c2df916b6f2bc0e07c.flv"
+      }, {
+          "group_title": "Discovery[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/ef2748398207873cae12b151ae78b0af.flv"
+      }, {
+          "group_title": "国家地理悠人",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/0293b493509468a0a896adea05ad5e30.flv"
+      }, {
+          "group_title": "国家地理野生",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/a4540237835700ece1fc1e54ce826125.flv"
+      }, {
+          "group_title": "国家地理HD",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/1b4017a457de80eec599895ec807e124.flv"
+      }, {
+          "group_title": "BBC earth",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/f7146ac8e65cb75112431f87ddcea22e.flv"
+      }, {
+          "group_title": "动物星球[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/eb7d8081fb5400bb7bfa08c8bcd8c45d.flv"
+      }, {
+          "group_title": "美食星球",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/7f2e2b78b85222886ccb3792c905408e.flv"
+      }, {
+          "group_title": "亚洲美食",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/13e17ff9d96096b87e7902d77452ae76.flv"
+      }, {
+          "group_title": "香港有线新闻",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/d6d6eab225f541869b2657861f0e94d6.flv"
+      }, {
+          "group_title": "中天新闻[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/e1a397539e76f45bbbf39d1467024aa3.flv"
+      }, {
+          "group_title": "东森新闻[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.flv"
+      }, {
+          "group_title": "非凡新闻[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.flv"
+      }, {
+          "group_title": "中视新闻[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.flv"
+      }, {
+          "group_title": "年代MUCH[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/3d20cf4de65aadb4d2b2e30ad3974750.flv"
+      }, {
+          "group_title": "纬来日本[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/8bb9e07d9ed0c8bccd750b0f15206b73.flv"
+      }, {
+          "group_title": "TVB 明珠台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/e5b375085720fd04cec615352224b493.flv"
+      }, {
+          "group_title": "TVB J2",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.flv"
+      }, {
+          "group_title": "DWTV",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/a4aa25e01a432729323f4d0778605887.flv"
+      }, {
+          "group_title": "新加坡亚洲新闻台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/1aab6cf57296bdefc6f4bea94702782a.flv"
+      }, {
+          "group_title": "寰宇新闻2台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/0d192b1fb482857fb4694a12c2718302.flv"
+      }, {
+          "group_title": "寰宇综合",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/82b78befe54a601876654e1db3e3741a.flv"
+      }, {
+          "group_title": "欧洲新闻",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/7c52797bf1ca2da52c212bdead1d607c.flv"
+      }, {
+          "group_title": "TV5 MONDE",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/a9dd7099d0abf47c5e17f8038234df22.flv"
+      }, {
+          "group_title": "CNN NEWS",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/5ff1924613169c0b7148e528d0cfe0fd.flv"
+      }, {
+          "group_title": "东森财经新闻[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.flv"
+      }, {
+          "group_title": "FOX News",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/b78a7c4f460285596b53bfa802eca8e8.flv"
+      }, {
+          "group_title": "SKY NEWS",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/64a4807c0cf482cffe922d7b8f091303.flv"
+      }, {
+          "group_title": "NHK WORLD",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/1b06c6242b2fd17ab11a21d70abb2e67.flv"
+      }, {
+          "group_title": "BBC World News",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/6d735caeaf70f8901aa00f86aefc4dde.flv"
+      }, {
+          "group_title": "靖天映画",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/4364abb0a9f358049a535f4692cd49b5.flv"
+      }, {
+          "group_title": "靖天电影",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/5634d5c8ee5afeb118df8decf5eb6c56.flv"
+      }, {
+          "group_title": "FOX MOVIES[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/b3d2208824d1ca27dad3068e376ab557.flv"
+      }, {
+          "group_title": "CINEMAX",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/9bece52b2f72795cc2f588f3d9e4eed3.flv"
+      }, {
+          "group_title": "好莱坞电影[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.flv"
+      }, {
+          "group_title": "影迷纪实台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/a1d2d2be053776bb01c1aac37ac2dee4.flv"
+      }, {
+          "group_title": "CatchPlay电影台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/65e80e1e0cd763a0302d7aa2a1135b0b.flv"
+      }, {
+          "group_title": "HBO Hits",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/c971b59822c6a91fab4bad8ca9b45f6b.flv"
+      }, {
+          "group_title": "HBO Signature",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.flv"
+      }, {
+          "group_title": "HBO Family",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.flv"
+      }, {
+          "group_title": "LS TIME龙祥电影",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/a5da9875c963d704ac5dd8f866869723.flv"
+      }, {
+          "group_title": "卫视电影台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/4499fb1dcef8c7a9f64276bf71bfc5b4.flv"
+      }, {
+          "group_title": "壹电影",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/eb53b692ccbe8c836bc20be6734a9555.flv"
+      }, {
+          "group_title": "纬来电影",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/4f10b67646969a422a5490deaaabbc69.flv"
+      }, {
+          "group_title": "东森电影[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/d2325cfdfd53364263d307573f78e3ce.flv"
+      }, {
+          "group_title": "东森洋片[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/24b15906d2250c062c0f0b5339e166b2.flv"
+      }, {
+          "group_title": "龙华电影",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/0e5dee9e8021ce3b9ec9bb78e9710555.flv"
+      }, {
+          "group_title": "龙华经典",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/669a67f26ad4b9f68664bfcaefc9553e.flv"
+      }, {
+          "group_title": "龙华洋片",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/b7829653660ec5e84c70e7f3a01e1e6c.flv"
+      }, {
+          "group_title": "星卫HD电影",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/41e05f3849c21412aa8b347f18adb3f6.flv"
+      }, {
+          "group_title": "美亚电影",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/4a1141f101530bff4fc0e9229625e6b5.flv"
+      }, {
+          "group_title": "我的欧洲电影",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/2d2f46a778c93f01b614213456fc97fc.flv"
+      }, {
+          "group_title": "卫视洋片台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/78c4edcada009192a9b1f8976b5692ab.flv"
+      }, {
+          "group_title": "Cinema World",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/357252de83720e30d40c00bfba69c497.flv"
+      }, {
+          "group_title": "DIVA",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/2ff14655a982c6d2be2a8b0c5649d257.flv"
+      }, {
+          "group_title": "HBO HD",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.flv"
+      }, {
+          "group_title": "福克斯家庭影院",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/440b3d3c474813d7ead7d3a795978e69.flv"
+      }, {
+          "group_title": "靖天国际",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/cbd38069eb1e8b2c04e356c22baac506.flv"
+      }, {
+          "group_title": "法国时尚",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/f737108ad740b942b32d751b0577d534.flv"
+      }, {
+          "group_title": "LUXE.TV",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/5eb27870debdb04d89a6246b163c2da5.flv"
+      }, {
+          "group_title": "ELTV生活英语",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/094cb0c295f8bde2de59d5f421230dbd.flv"
+      }, {
+          "group_title": "FX HD",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/245532ab74af9be852014a93e292f690.flv"
+      }, {
+          "group_title": "FOX CRIME",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/833d6cdeed807b755e6c449832b26621.flv"
+      }, {
+          "group_title": "AMC日舞",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/40d0812307cd389be76c358de7f4913e.flv"
+      }, {
+          "group_title": "WaKaWaka Japan",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/6fab3a8298ba5097394c5fdcdea8ea81.flv"
+      }, {
+          "group_title": "BoomErang卡通",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/65796ce70deacc164cf2eb854ad43994.flv"
+      }, {
+          "group_title": "亚洲旅游台[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/a7003032346b06ad6a610ce1751be6a4.flv"
+      }, {
+          "group_title": "CNEX",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/a079e0f13033fc06d42cd0e9e40913ee.flv"
+      }, {
+          "group_title": "CRIME",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/3b19a19852e7bdc6b6f238108c94cb82.flv"
+      }, {
+          "group_title": "TLC旅游生活[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/2389cbac5b421dd5b069a232f3d321bc.flv"
+      }, {
+          "group_title": "Smart知识台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/641befebabe286484103e2980e05694d.flv"
+      }, {
+          "group_title": "历史频道",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/998ce23199bda76900024601f6dd859d.flv"
+      }, {
+          "group_title": "历史频道2",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/b4d47c14a4665a2ef43d657ea6384c27.flv"
+      }, {
+          "group_title": "E!Entertainment",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/284df67673a590b64593e0127029b0b2.flv"
+      }, {
+          "group_title": "Outoor",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/fa1bc78d17a433dfd3214271efe7e82b.flv"
+      }, {
+          "group_title": "达西文频道",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/6d5a837a6f42e9d82be9243e51a91d50.flv"
+      }, {
+          "group_title": "EYE TV旅游台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/6d6535e5e44f88df204129354e77b2a7.flv"
+      }, {
+          "group_title": "Travel Channel",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/2f1e104da16f66b93ad4d873326b19eb.flv"
+      }, {
+          "group_title": "DMAX[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/41a76576ae78436eb0951f2aee0c9bda.flv"
+      }, {
+          "group_title": "BBC Lifestyle",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/5e80f4a9e17c991df381030c65856687.flv"
+      }, {
+          "group_title": "爱尔达影视",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/0916fef64c4baab95f7097d001e4c27e.flv"
+      }, {
+          "group_title": "靖天戏剧",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/4c3b3fa6235fce99e794a16e096c2e1b.flv"
+      }, {
+          "group_title": "龙华戏剧",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/b40ec839440a97d24d0aee0c69d186a1.flv"
+      }, {
+          "group_title": "龙华偶像",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/046d62141df9366aa54a66b22e095e24.flv"
+      }, {
+          "group_title": "八大戏剧[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/6d7d7a9c22ba9aa4e411e3f7567763d8.flv"
+      }, {
+          "group_title": "Warner TV",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/a645bdeafb1216c23352144c3505bd8c.flv"
+      }, {
+          "group_title": "AXN",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/c762110b3eef8bcccce5863643dd66aa.flv"
+      }, {
+          "group_title": "彩昌影剧台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/b93ac92b703885f3cfe39bad8aa689d1.flv"
+      }, {
+          "group_title": "BLUE ANT EXTREME",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/7b3b2e1d0006091415635226a2ac5d86.flv"
+      }, {
+          "group_title": "BLUE ANT ENTERTAINMET",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/41005bf306743766c5affb055bc5c164.flv"
+      }, {
+          "group_title": "EYE TV戏剧台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/69a400e45b6fbd61c8182736ec80e013.flv"
+      }, {
+          "group_title": "HITS[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/e6d6d3927102ce6e0e99187b52946497.flv"
+      }, {
+          "group_title": "东森戏剧[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/17cdea424a288175c834060c58b3bb4e.flv"
+      }, {
+          "group_title": "龙华影剧",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/d2e1d697b31906f91d7e19a5f06f64ed.flv"
+      }, {
+          "group_title": "三立戏剧",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/bdc9e5f7487003c20223fd67f25c7ee7.flv"
+      }, {
+          "group_title": "TVN",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/060e39b20b7616170ba4ba63c53bc336.flv"
+      }, {
+          "group_title": "TVB 星河",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/e70f35708baededbbd1d0963f76981a1.flv"
+      }, {
+          "group_title": "TVB 功夫",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/cfd2b3912b756d6d4965f018fd7d3717.flv"
+      }, {
+          "group_title": "靖天育乐",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/b4b4eb536ffc346864d2dcc03adedd85.flv"
+      }, {
+          "group_title": "靖天欢乐",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/4da43dff7cd731ffb9bbe9a85b029536.flv"
+      }, {
+          "group_title": "靖天日本",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/031b3e399e9530310abc135a0b19a8ac.flv"
+      }, {
+          "group_title": "卫视合家欢",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/277056149034cc5fb133537bc411c2c9.flv"
+      }, {
+          "group_title": "国兴卫视[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/148acbf5aac2d7a9afc4b6ab6e8f05ec.flv"
+      }, {
+          "group_title": "八大第一[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/5e147a8d04ab43725d40e72fd7169952.flv"
+      }, {
+          "group_title": "八大娱乐[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/31c5b2c0fa7ac37b2e1447befb076d08.flv"
+      }, {
+          "group_title": "NHK[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/6c2713799277ea6ea2d3bfd0d4c31f88.flv"
+      }, {
+          "group_title": "高点育乐[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/ab3024fd5d5b0e84cbcd0bc0085cf043.flv"
+      }, {
+          "group_title": "TVBS欢乐台[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/5e81e3b3e2d8b887db0bc2976558c7ea.flv"
+      }, {
+          "group_title": "纬来育乐[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/5cd65f73313b022253084c489a6705c8.flv"
+      }, {
+          "group_title": "中天娱乐[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/25ea449d554a16ec584e82d039065e5f.flv"
+      }, {
+          "group_title": "东森超视[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/47d46d26bba55dd674454ad46c569ffa.flv"
+      }, {
+          "group_title": "韩国娱乐台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/8ae61414f7e2972598956105e2e9969d.flv"
+      }, {
+          "group_title": "星卫娱乐",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/4c3c2a7fe5ffc33e45bca04f983f02b0.flv"
+      }, {
+          "group_title": "爱尔达综合",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/c614a26c0e0fb521c5cdfa10ed7f2089.flv"
+      }, {
+          "group_title": "ET综合台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/f6e19af652637cfde3c0f5d34822b4b5.flv"
+      }, {
+          "group_title": "靖天资讯",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/e81342a5e0ecde1ee634f19b50fab501.flv"
+      }, {
+          "group_title": "靖天综合",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/7a7b662db65f478451144355efa0f02b.flv"
+      }, {
+          "group_title": "公视[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/0be9e52678b937320897033d90bb268a.flv"
+      }, {
+          "group_title": "公视3[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/514590fdb3ba8e3f2c3a15dd13037f31.flv"
+      }, {
+          "group_title": "台视[HD]",
+          "live": ""
+      }, {
+          "group_title": "台视综合",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/a8905b7e88b656b83c0f5d8bf5771430.flv"
+      }, {
+          "group_title": "华视[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/0bdf94d7f68fe3ece32048144cbf9a23.flv"
+      }, {
+          "group_title": "中视[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/318e4839a23f9ff15e327de9bcb31687.flv"
+      }, {
+          "group_title": "霹雳台湾台[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/14b736ee363e84918a8c43c69691faaa.flv"
+      }, {
+          "group_title": "Hakkatv[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/9535868a6a173399d3913cab3bb61675.flv"
+      }, {
+          "group_title": "TITV原住民电视台[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/8f44c933620b603a874a18ed1bb9a033.flv"
+      }, {
+          "group_title": "LIFE TIME",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/d8ab211a4f23fe8e143757d13ade9b32.flv"
+      }, {
+          "group_title": "TRACE Sports",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/3b88f91a420e6cd59cd034ccf2a05c10.flv"
+      }, {
+          "group_title": "八大综合[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/a26d25ad9eaabca42fa6d526199d61e5.flv"
+      }, {
+          "group_title": "东风37台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/0b2e19ee2374470b5dede1013afcb4b5.flv"
+      }, {
+          "group_title": "三立台湾台[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/e71635b53bb874a085b2a469802bbc81.flv"
+      }, {
+          "group_title": "三立都会台[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/4abe46a5faf4865e251ac981287a6e20.flv"
+      }, {
+          "group_title": "JET综合[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/c4fcaea7013c6b1d6aef9f1d0e99871e.flv"
+      }, {
+          "group_title": "FOX HD",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/c2c91afe09bad325929734624c19d07b.flv"
+      }, {
+          "group_title": "高点综合[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/f11ea1c1918059c58b42c637fa9dc678.flv"
+      }, {
+          "group_title": "公视2",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/236c80ba515e5bf302f3db6f4d009914.flv"
+      }, {
+          "group_title": "亚洲综合",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/8e08d22adcc7748ceedc31006b55f7de.flv"
+      }, {
+          "group_title": "中视经典",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/75249ac8b464466a9c41c669bd27260a.flv"
+      }, {
+          "group_title": "MY101综合台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/6c4078ac7601f5787aef2f8b88dd449c.flv"
+      }, {
+          "group_title": "TVBS[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/f94be038bca84147bbf132d8ddd9bb39.flv"
+      }, {
+          "group_title": "卫视中文台[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/a08a123b4af3aebb4e19b82f64952c9e.flv"
+      }, {
+          "group_title": "纬来戏剧[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/82605f105052ccaef7bb5d55ebc1341d.flv"
+      }, {
+          "group_title": "纬来综合[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/932044d200ab730968a8f9bc67feaef5.flv"
+      }, {
+          "group_title": "东森综合[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/7485194388c0ca1d43a664701afb2ff2.flv"
+      }, {
+          "group_title": "中天综合",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/64ce4daa355bd6784904e72fabb7fa3e.flv"
+      }, {
+          "group_title": "TVBS精彩台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/15379cc75ee0fb41ab2fb3a11f3d909f.flv"
+      }, {
+          "group_title": "纬来精彩台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/c311c72c22313d2991be335ea4872f46.flv"
+      }, {
+          "group_title": "三立综合",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/16eda25701fe842c519d881c68829ead.flv"
+      }, {
+          "group_title": "壹综合",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/3cec0560564363facfd892d88b741c62.flv"
+      }, {
+          "group_title": "TVB 翡翠台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/b3a93cbbd1908e81783879747bb3090a.flv"
+      }, {
+          "group_title": "华视教育体育文化[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/f167f80500ab6910a8740ab31e9963c3.flv"
+      }, {
+          "group_title": "博斯高球1[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/4870a14ca0496e434825594643eea173.flv"
+      }, {
+          "group_title": "博斯高球2[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/9dd0941038e16fd8207f4c485c2fd34b.flv"
+      }, {
+          "group_title": "博斯魅力[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/906ff5c1e590fdc0f41744077f56672a.flv"
+      }, {
+          "group_title": "博斯无限[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/8c9a98717ee9e5136636c3bedbb852b8.flv"
+      }, {
+          "group_title": "博斯网球[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/cf415a2419c61638eefa5eb8c5a65922.flv"
+      }, {
+          "group_title": "博斯运动2[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/c71aa3f9ef9e92531a06863b9a731849.flv"
+      }, {
+          "group_title": "博斯运动1[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/1cebe1e25e9c69e2ed2e1e6012aeb2d3.flv"
+      }, {
+          "group_title": "FOX SPORTS[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/b00b46e382e81efd9902a848c9b89101.flv"
+      }, {
+          "group_title": "FOX SPORTS2[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/a726b0d8db38a23435c5c3ba95507d3e.flv"
+      }, {
+          "group_title": "欧洲体育[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/96681c92588f5254e1c9f8fcb41e9d64.flv"
+      }, {
+          "group_title": "ELEVVEN SPORTS PLUS",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/b599c0682fbb5364078cb9e3093228a6.flv"
+      }, {
+          "group_title": "ELEVVEN SPORTS 2",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/94283c6401f80334d9acd488b649830b.flv"
+      }, {
+          "group_title": "FOX SPORTS 3",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/1a4ff6880b679dd340e42a9b61fe2d9f.flv"
+      }, {
+          "group_title": "纬来体育[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/464311a99c6465a1f36681b73c62fa83.flv"
+      }, {
+          "group_title": "智林体育台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/12b7289a05d4cb3c2b79f38b030e2548.flv"
+      }, {
+          "group_title": "靖洋卡通",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/8fa63f69fe90ce0597aa6d4b7c262810.flv"
+      }, {
+          "group_title": "MOMO亲子台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/0c795e6e7f8e067dd4110a57375a71b9.flv"
+      }, {
+          "group_title": "CN卡通",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/c865782e4a131efe17651165835ca37e.flv"
+      }, {
+          "group_title": "ANIMAX",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/33de03293563010671a856688d63d4ee.flv"
+      }, {
+          "group_title": "迪斯尼卡通",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/198038b134ad459d9cc251038c74685a.flv"
+      }, {
+          "group_title": "梦工厂动画",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/aae9c139f056e6c003448ba1e4908ee3.flv"
+      }, {
+          "group_title": "I-FUN动漫台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/9cd9d87c4ccbf7f28284990a1c3d4569.flv"
+      }, {
+          "group_title": "曼迪日本台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/d9445086fd2dd474087674f638f2a8ed.flv"
+      }, {
+          "group_title": "BabyTV",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/d7ede3e748413a7ad065d29dbe542149.flv"
+      }, {
+          "group_title": "Babyfirst",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/efd423af0e64fd82c1cc29e909eb4303.flv"
+      }, {
+          "group_title": "My kids",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/9bb01fa9902e14cd5811f5474283171b.flv"
+      }, {
+          "group_title": "NICK 卡通",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/a81b6e417028b6d72ed3e6ee7c42619b.flv"
+      }, {
+          "group_title": "东森幼幼[HD]",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/0c0a03db510687f73c455afcc220386b.flv"
+      }, {
+          "group_title": "龙华动画",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/4a3c4fbd39ddf82979cf3ecf3cd942c8.flv"
+      }, {
+          "group_title": "靖天卡通",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/6bbfbe0fb0dc5ce3f8db00d8fae9ae5c.flv"
+      }, {
+          "group_title": "ANIMAX HD",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/13b6c6ecbb388c105fd9d98338162abb.flv"
+      }, {
+          "group_title": "寰宇财经",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/77c9bab3af161386df16ad9d8a3f3541.flv"
+      }, {
+          "group_title": "台视财经",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/c5d061725e49943973c43a404b913f17.flv"
+      }, {
+          "group_title": "Bloombreg TV",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/ab2450af4c80b52d0810eceaf055abee.flv"
+      }, {
+          "group_title": "香港有线电视603",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/390f07f18f550fb6e60c0c80264cdcc1.flv"
+      }, {
+          "group_title": "Z频道",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/30a7edb2f6c42bd079dd4910806decde.flv"
+      }, {
+          "group_title": "影迷电影台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/991d0a1e4fc3c270d037fae11c587741.flv"
+      }, {
+          "group_title": "华艺影剧台",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/49d33b7521ceef2115572e8906e9f906.flv"
+      }, {
+          "group_title": "居家幸福",
+          "live": "http://pili-live-hdl.qhmywl.com/dsdtv/891dfa401663622b29ab70c16ea2273e.flv"
+      }
 ]
 }
